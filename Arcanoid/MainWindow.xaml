@@ -1,0 +1,15 @@
+﻿<Window x:Class="Arcanoid.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Arcanoid"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        KeyDown="Window_KeyDown"
+        ResizeMode="NoResize"
+        Title="Arcanoid" Height="800" Width="820">
+    <Grid Name="MainGrid" ShowGridLines="False">
+        
+    </Grid>
+</Window>
